@@ -11,5 +11,6 @@ Password : <input type="text"/>
 
 </form>
 <a href="about.jsp">About Page</a>
+<a href="service.jsp">Service Page</a>
 </body>
 </html>
